@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rYfyiT+IMWBw1gEZOtRmhwoRGta0lrmAxTdpSbmAgQg=",
+  "Source": "Employee.Registration.Api",
+  "BasePath": "_content/Employee.Registration.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

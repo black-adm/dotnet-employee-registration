@@ -1,0 +1,16 @@
+C:\Users\matth\www\dotnet\dotnet-employee-registration\src\Employee.Registration.Data\bin\Debug\net8.0\Employee.Registration.Data.deps.json
+C:\Users\matth\www\dotnet\dotnet-employee-registration\src\Employee.Registration.Data\bin\Debug\net8.0\Employee.Registration.Data.dll
+C:\Users\matth\www\dotnet\dotnet-employee-registration\src\Employee.Registration.Data\bin\Debug\net8.0\Employee.Registration.Data.pdb
+C:\Users\matth\www\dotnet\dotnet-employee-registration\src\Employee.Registration.Data\bin\Debug\net8.0\Employee.Registration.Domain.dll
+C:\Users\matth\www\dotnet\dotnet-employee-registration\src\Employee.Registration.Data\bin\Debug\net8.0\Employee.Registration.Domain.pdb
+C:\Users\matth\www\dotnet\dotnet-employee-registration\src\Employee.Registration.Data\obj\Debug\net8.0\Employee.Registration.Data.csproj.AssemblyReference.cache
+C:\Users\matth\www\dotnet\dotnet-employee-registration\src\Employee.Registration.Data\obj\Debug\net8.0\Employee.Registration.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matth\www\dotnet\dotnet-employee-registration\src\Employee.Registration.Data\obj\Debug\net8.0\Employee.Registration.Data.AssemblyInfoInputs.cache
+C:\Users\matth\www\dotnet\dotnet-employee-registration\src\Employee.Registration.Data\obj\Debug\net8.0\Employee.Registration.Data.AssemblyInfo.cs
+C:\Users\matth\www\dotnet\dotnet-employee-registration\src\Employee.Registration.Data\obj\Debug\net8.0\Employee.Registration.Data.csproj.CoreCompileInputs.cache
+C:\Users\matth\www\dotnet\dotnet-employee-registration\src\Employee.Registration.Data\obj\Debug\net8.0\Employee.Registration.Data.sourcelink.json
+C:\Users\matth\www\dotnet\dotnet-employee-registration\src\Employee.Registration.Data\obj\Debug\net8.0\Employee.2AE5AFDA.Up2Date
+C:\Users\matth\www\dotnet\dotnet-employee-registration\src\Employee.Registration.Data\obj\Debug\net8.0\Employee.Registration.Data.dll
+C:\Users\matth\www\dotnet\dotnet-employee-registration\src\Employee.Registration.Data\obj\Debug\net8.0\refint\Employee.Registration.Data.dll
+C:\Users\matth\www\dotnet\dotnet-employee-registration\src\Employee.Registration.Data\obj\Debug\net8.0\Employee.Registration.Data.pdb
+C:\Users\matth\www\dotnet\dotnet-employee-registration\src\Employee.Registration.Data\obj\Debug\net8.0\ref\Employee.Registration.Data.dll

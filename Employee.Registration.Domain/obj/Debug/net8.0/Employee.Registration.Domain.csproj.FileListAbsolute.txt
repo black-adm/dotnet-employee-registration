@@ -1,0 +1,12 @@
+C:\Users\matth\www\dotnet\dotnet-employee-registration\src\Employee.Registration.Domain\bin\Debug\net8.0\Employee.Registration.Domain.deps.json
+C:\Users\matth\www\dotnet\dotnet-employee-registration\src\Employee.Registration.Domain\bin\Debug\net8.0\Employee.Registration.Domain.dll
+C:\Users\matth\www\dotnet\dotnet-employee-registration\src\Employee.Registration.Domain\bin\Debug\net8.0\Employee.Registration.Domain.pdb
+C:\Users\matth\www\dotnet\dotnet-employee-registration\src\Employee.Registration.Domain\obj\Debug\net8.0\Employee.Registration.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matth\www\dotnet\dotnet-employee-registration\src\Employee.Registration.Domain\obj\Debug\net8.0\Employee.Registration.Domain.AssemblyInfoInputs.cache
+C:\Users\matth\www\dotnet\dotnet-employee-registration\src\Employee.Registration.Domain\obj\Debug\net8.0\Employee.Registration.Domain.AssemblyInfo.cs
+C:\Users\matth\www\dotnet\dotnet-employee-registration\src\Employee.Registration.Domain\obj\Debug\net8.0\Employee.Registration.Domain.csproj.CoreCompileInputs.cache
+C:\Users\matth\www\dotnet\dotnet-employee-registration\src\Employee.Registration.Domain\obj\Debug\net8.0\Employee.Registration.Domain.sourcelink.json
+C:\Users\matth\www\dotnet\dotnet-employee-registration\src\Employee.Registration.Domain\obj\Debug\net8.0\Employee.Registration.Domain.dll
+C:\Users\matth\www\dotnet\dotnet-employee-registration\src\Employee.Registration.Domain\obj\Debug\net8.0\refint\Employee.Registration.Domain.dll
+C:\Users\matth\www\dotnet\dotnet-employee-registration\src\Employee.Registration.Domain\obj\Debug\net8.0\Employee.Registration.Domain.pdb
+C:\Users\matth\www\dotnet\dotnet-employee-registration\src\Employee.Registration.Domain\obj\Debug\net8.0\ref\Employee.Registration.Domain.dll

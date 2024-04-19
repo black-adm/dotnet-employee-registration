@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hILbef5T78sZFMglm1qx0rFJObMXRZ6rJ19qKLifpaTCDajs8NhJxXWDeayFNvk6dnFUUDMRFf5geybzI88UZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\matth\\www\\dotnet\\dotnet-employee-registration\\src\\Employee.Registration.Domain\\Employee.Registration.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\matth\\.nuget\\packages\\mongodb.bson\\2.25.0\\mongodb.bson.2.25.0.nupkg.sha512",
+    "C:\\Users\\matth\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\matth\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

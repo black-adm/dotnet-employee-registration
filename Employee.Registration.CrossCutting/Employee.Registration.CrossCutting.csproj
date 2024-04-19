@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Employee.Registration.Application\Employee.Registration.Application.csproj" />
+      <ProjectReference Include="..\Employee.Registration.Data\Employee.Registration.Data.csproj" />
+    </ItemGroup>
+
+</Project>

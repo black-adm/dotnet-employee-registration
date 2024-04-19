@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Employee.Registration.Data/1.0.0": {
+        "dependencies": {
+          "Employee.Registration.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Employee.Registration.Data.dll": {}
+        }
+      },
+      "Employee.Registration.Domain/1.0.0": {
+        "runtime": {
+          "Employee.Registration.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Employee.Registration.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Employee.Registration.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

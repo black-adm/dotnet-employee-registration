@@ -1,0 +1,12 @@
+C:\Users\matth\www\dotnet\dotnet-employee-registration\src\Employee.Registration.CrossCutting\bin\Debug\net8.0\Employee.Registration.CrossCutting.deps.json
+C:\Users\matth\www\dotnet\dotnet-employee-registration\src\Employee.Registration.CrossCutting\bin\Debug\net8.0\Employee.Registration.CrossCutting.dll
+C:\Users\matth\www\dotnet\dotnet-employee-registration\src\Employee.Registration.CrossCutting\bin\Debug\net8.0\Employee.Registration.CrossCutting.pdb
+C:\Users\matth\www\dotnet\dotnet-employee-registration\src\Employee.Registration.CrossCutting\obj\Debug\net8.0\Employee.Registration.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matth\www\dotnet\dotnet-employee-registration\src\Employee.Registration.CrossCutting\obj\Debug\net8.0\Employee.Registration.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\matth\www\dotnet\dotnet-employee-registration\src\Employee.Registration.CrossCutting\obj\Debug\net8.0\Employee.Registration.CrossCutting.AssemblyInfo.cs
+C:\Users\matth\www\dotnet\dotnet-employee-registration\src\Employee.Registration.CrossCutting\obj\Debug\net8.0\Employee.Registration.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\matth\www\dotnet\dotnet-employee-registration\src\Employee.Registration.CrossCutting\obj\Debug\net8.0\Employee.Registration.CrossCutting.sourcelink.json
+C:\Users\matth\www\dotnet\dotnet-employee-registration\src\Employee.Registration.CrossCutting\obj\Debug\net8.0\Employee.Registration.CrossCutting.dll
+C:\Users\matth\www\dotnet\dotnet-employee-registration\src\Employee.Registration.CrossCutting\obj\Debug\net8.0\refint\Employee.Registration.CrossCutting.dll
+C:\Users\matth\www\dotnet\dotnet-employee-registration\src\Employee.Registration.CrossCutting\obj\Debug\net8.0\Employee.Registration.CrossCutting.pdb
+C:\Users\matth\www\dotnet\dotnet-employee-registration\src\Employee.Registration.CrossCutting\obj\Debug\net8.0\ref\Employee.Registration.CrossCutting.dll
